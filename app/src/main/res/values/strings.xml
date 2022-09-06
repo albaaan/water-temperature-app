@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Cobalt</string>
+    <string name="favorites">Favoritter</string>
+    <string name="mandag">Mandag</string>
+    <string name="tirsdag">Tirsdag</string>
+    <string name="onsdag">Onsdag</string>
+    <string name="torsdag">Torsdag</string>
+    <string name="fredag">Fredag</string>
+    <string name="lørdag">Lørdag</string>
+    <string name="søndag">Søndag</string>
+    <string name="favorittknapp">Dette er en knapp som brukes for å markere badesteder som favoritter</string>
+    <string name="antallBad"> Antall bad tatt:</string>
+    <string name="registrer"> Registrer bad</string>
+    <string name="ingenData"> Du har ikke market noen badesteder som favoritter enda</string>
+    <string name="søk"> Dette er en knapp som åpner søkemenyen</string>
+    <string name="logo">Dette er logoen til applikasjonen</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorites</string>
+</resources>
